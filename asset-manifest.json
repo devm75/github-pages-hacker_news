@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github-pages-hacker_news/static/css/main.9c59207b.chunk.css",
+    "main.js": "/github-pages-hacker_news/static/js/main.2dba2845.chunk.js",
+    "main.js.map": "/github-pages-hacker_news/static/js/main.2dba2845.chunk.js.map",
+    "runtime-main.js": "/github-pages-hacker_news/static/js/runtime-main.90fac139.js",
+    "runtime-main.js.map": "/github-pages-hacker_news/static/js/runtime-main.90fac139.js.map",
+    "static/js/2.4904b4fd.chunk.js": "/github-pages-hacker_news/static/js/2.4904b4fd.chunk.js",
+    "static/js/2.4904b4fd.chunk.js.map": "/github-pages-hacker_news/static/js/2.4904b4fd.chunk.js.map",
+    "index.html": "/github-pages-hacker_news/index.html",
+    "precache-manifest.1231d51340266eda8f54d6a0b3a44a6f.js": "/github-pages-hacker_news/precache-manifest.1231d51340266eda8f54d6a0b3a44a6f.js",
+    "service-worker.js": "/github-pages-hacker_news/service-worker.js",
+    "static/css/main.9c59207b.chunk.css.map": "/github-pages-hacker_news/static/css/main.9c59207b.chunk.css.map",
+    "static/js/2.4904b4fd.chunk.js.LICENSE.txt": "/github-pages-hacker_news/static/js/2.4904b4fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90fac139.js",
+    "static/js/2.4904b4fd.chunk.js",
+    "static/css/main.9c59207b.chunk.css",
+    "static/js/main.2dba2845.chunk.js"
+  ]
+}
